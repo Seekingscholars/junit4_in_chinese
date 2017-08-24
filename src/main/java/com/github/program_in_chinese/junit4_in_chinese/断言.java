@@ -7,7 +7,7 @@ import static org.junit.Assert.assertTrue;
 import static org.junit.Assert.fail;
 
 /**
- * 所有方法直接调用Assert原生方法, 尽量避免增加调试时的信息
+ * 所有方法直接调用Assert原生方法, 尽量避免增加调试时的信息.
  */
 // TODO: 补全Javadoc
 public class 断言 {
