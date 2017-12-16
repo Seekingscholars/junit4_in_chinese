@@ -8,7 +8,7 @@ JUnit4中文化. 起源: https://github.com/program-in-chinese/overview/issues/1
 <dependency>
   <groupId>com.github.program_in_chinese</groupId>
   <artifactId>junit4_in_chinese</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.1</version>
 </dependency>
 ```
 中英对应表:
