@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.github.program_in_chinese</groupId>
   <artifactId>junit4_in_chinese</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.1</version>
   <name>JUnit4中文化</name>
   <description>添加中文API</description>
   <url>https://github.com/program-in-chinese/junit4_in_chinese</url>
